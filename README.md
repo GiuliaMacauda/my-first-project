@@ -1,2 +1,2 @@
 # my-first-project
-Il mio promo progetto su GitHub
+Il mio primo progetto su GitHub
